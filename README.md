@@ -1,10 +1,10 @@
 # Local LLM
 
 ## About
-Playing around with Llama 3.1
+Playing around with small Llama models
 
 ## Goal
 Run locally?
 
 ## Environment
-Put model in `.model/`
+Put model in `models/`
