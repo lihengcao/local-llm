@@ -1,10 +1,17 @@
 # Local LLM
 
 ## About
-Playing around with small Llama models
+Playing around with small local models
 
 ## Goal
 Run locally?
 
 ## Environment
-Put model in `models/`
+Put model files in `models/`
+
+## Run
+See https://docs.astral.sh/uv/
+
+```shell
+uv run main.py
+```
